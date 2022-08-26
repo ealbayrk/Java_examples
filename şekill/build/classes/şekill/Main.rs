@@ -1,0 +1,2 @@
+şekil.Main
+şekill.Şekill
